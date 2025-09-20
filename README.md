@@ -1,2 +1,7 @@
-# hello-world
-abc123
+#include <reg52.h>
+unsigned char a;
+
+void main(void)
+{
+  
+}
